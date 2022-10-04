@@ -1,3 +1,9 @@
+# about the Project
+Estatery is Single Page Real Estate Rent a Property web app with filtering mechanism.
+Used React , HTML , CSS , Javascript , JSON.
+used dummy data to display results after applying filters.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
